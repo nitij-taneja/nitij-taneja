@@ -109,8 +109,7 @@
 - Strong documentation and structured project organization
 
 ### Projects
-[![Project 1](my_preview.gif)](https://github.com/nitij-taneja/Research-Paper-classification-MVP)  
-[**Project 1**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
+[![Project 1](my_preview.gif) Project 1](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
 
 
 
