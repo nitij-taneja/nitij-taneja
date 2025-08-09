@@ -108,19 +108,7 @@
 - Cross-functional understanding (AI, APIs, frontend/backend)
 - Strong documentation and structured project organization
 
-### Projects & Achievements:
 
-- **Research Paper Classification and Journal Recommendation**
-  - This project automates the evaluation of research papers for publishability and recommends suitable journals or conferences for submission using machine learning and natural language processing techniques.
-  - [Link to Project](https://github.com/nitij-taneja/Research-Papers-Classification)
-
-- **Bitcoin Price Prediction and Trading Strategy**
-  - This project is focused on analyzing Bitcoin price movements using machine learning and statistical methods. It involves exploratory data analysis, feature engineering, and trading strategy implementation based on technical indicators and time-series analysis.
-  - [Link to Project](https://github.com/nitij-taneja/bitcoin-trading-strategy)
-
-- **SmartShop AI - E-Commerce Platform with AI Features**
-  - SmartShop AI is an advanced e-commerce platform that combines traditional shopping features with cutting-edge AI capabilities, including intelligent product recommendations, natural language chatbot assistance, and a unique price negotiation system.
-  - [Link to Project](https://github.com/nitij-taneja/SmartShop.ai.git)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact" alt="nitij-taneja" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en" alt="nitij-taneja" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitij-taneja&" alt="nitij-taneja" /></p>
 
