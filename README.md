@@ -33,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact" alt="nitij-taneja" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en" alt="nitij-taneja" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitij-taneja&" alt="nitij-taneja" /></p>
 
 ### Projects
-- **Research Papers Classification Project**
+- [**Research Papers Classification Project**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
   
 ![Project 1](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
 
