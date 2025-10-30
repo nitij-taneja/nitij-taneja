@@ -33,13 +33,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact" alt="nitij-taneja" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en" alt="nitij-taneja" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitij-taneja&" alt="nitij-taneja" /></p>
 
 ### Projects
+- [**Reactive-vs-Proactive-Agents**](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents)
+  
+![Project 1](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
+
 - [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
   
-![Project 1](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+![Project 2](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
 
 - [**Research Papers Classification Project**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
   
-![Project 2](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
+![Project 3](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
 
 
 
