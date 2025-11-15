@@ -37,13 +37,17 @@
   
 ![Project 1](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
 
+- [**ReAct RAG Visualizer**](https://github.com/nitij-taneja/react_rag_visualiser)
+  
+![Project 2](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+
 - [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
   
-![Project 2](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+![Project 3](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
 
 - [**Research Papers Classification Project**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
   
-![Project 3](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
+![Project 4](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
 
 
 
