@@ -44,19 +44,19 @@
 
 * **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
    > *A multi-agent AI for legal case research, synthesizing and delivering legal verdicts with transparency.*
-   ![Project 3](https://raw.githubusercontent.com/nitij-taneja/A2A_LEGAL_RESEARCH/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
+   ![Project 1](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
-   ![Project 4](https://raw.githubusercontent.com/nitij-taneja/deep-research-ai-agent/main/VID_20251029185139_V1.gif)
+   ![Project 2](https://raw.githubusercontent.com/nitij-taneja/deep-research-ai-agent/main/VID_20251029185139_V1.gif)
 
 * **[ReAct RAG Visualizer](https://github.com/nitij-taneja/react_rag_visualiser)**
    > *Interactive AI observability tool visualizing the step-by-step ReAct reasoning loop.*
-   ![Project 2](https://raw.githubusercontent.com/nitij-taneja/react_rag_visualiser/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+   ![Project 3](https://raw.githubusercontent.com/nitij-taneja/react_rag_visualiser/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
 
 * **[Reactive-vs-Proactive-Agents](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents)**
    > *Dual-agent system orchestrating Groq (Llama 3) for drafting and Gemini for strategic refinement.*
-   ![Project 1](https://raw.githubusercontent.com/nitij-taneja/Reactive-vs-Proactive-Agents/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
+   ![Project 4](https://raw.githubusercontent.com/nitij-taneja/Reactive-vs-Proactive-Agents/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
 
 * **[Research Papers Classification Project](https://github.com/nitij-taneja/Research-Paper-classification-MVP)**
    > *NLP system using Sentence Transformers to classify papers and recommend academic venues.*
