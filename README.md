@@ -41,11 +41,11 @@
   
 ![Project 2](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
 
-- [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
+-  [**A2A LEGAL RESEARCH**](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)
   
 ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
-- [**A2A LEGAL RESEARCH**](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)
+- [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
   
 ![Project 4](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
 
