@@ -43,11 +43,15 @@
 
 - [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
   
-![Project 3](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
+
+- [**A2A LEGAL RESEARCH**](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)
+  
+![Project 4](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
 
 - [**Research Papers Classification Project**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
   
-![Project 4](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
+![Project 5](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
 
 
 
