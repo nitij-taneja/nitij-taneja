@@ -1,5 +1,5 @@
 <h1 align="center">
-  ਨਮਸਕਾਰ! Hello! ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! I'm Nitij Taneja!
+  Hello! ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! I'm Nitij Taneja!
 </h1>
 
 <p align="center">
