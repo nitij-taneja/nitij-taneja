@@ -1,138 +1,142 @@
-# Hi 👋, I'm Nitij Taneja
+<h1 align="center">
+  Hi 👋, I'm Nitij Taneja!
+</h1>
 
-### A passionate AI Developer and Data Scientist with expertise in AI, Machine Learning, and Data Science
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=450&lines=AI+Developer;Data+Scientist;Generative+AI+%26+LLMs;Machine+Learning+Engineer" alt="Typing SVG of my skills" />
+</p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitij-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="nitij-taneja" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitij-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="nitij-taneja" /> </p>
+---
 
-🎓 I’m currently pursuing an Integrated M.Tech in Computer Science and Engineering with a specialization in Computational Thinking and Data Science at VIT Bhopal University.
+<p align="right"> 
+  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+</p>
 
-🔭 Exploring advanced topics in Generative AI, LLMs, and NLP.
+## 💡 About Me & Current Focus
 
-📚 Completed Applied Machine Learning in Python from the University of Michigan on Coursera.
+* **Profession:** A passionate **AI Developer** and **Data Scientist** with expertise in AI, Machine Learning, and Data Science.
+* **Education:** Currently pursuing an Integrated M.Tech in Computer Science and Engineering (Specialization: Computational Thinking and Data Science) at **VIT Bhopal University** (2022–2027, CGPA: 8.56).
+* **Current Role:** AI Developer.
+* **Focus:** Exploring advanced topics in **Generative AI, LLMs, and NLP**, with hands-on experience in Agentic AI, RAG, and GraphRAG.
+* **Experience:** Previously worked as a Data Science Intern at CloudyMl and ApexIQ.ai.
+* **Fun Fact:** I'm always exploring the boundaries between technology and creativity!
 
-🎓 Certified graduate of the Data Science Masters course by PWskills.
+> 🎓 **Certifications & Achievements:**
+> * Completed **Applied Machine Learning in Python** from the University of Michigan (Coursera).
+> * Certified graduate of the **Data Science Masters** course by PWskills.
+> * Secured **Rank 23** (Top 50/1500+) in the Zelestra x AWS ML Ascend Challenge.
+> * Advanced to Round 2 in **IIT Kharagpur Data Science Hackathon** (2024 & 2025).
+> * Published technical article on **Federated Learning** on StackAbuse.
 
-💼 Previously worked as a Data Science Intern at CloudyMl and ApexIQ.ai (until June 2025). Currently working as an AI Developer at a new organization.
+---
 
-⚡ Participated in the IIT Kharagpur Data Science Hackathon.
+## 🤝 Connect with me
 
-📫 How to reach me: tanejanitij4002@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/nitij-taneja-702645204" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://kaggle.com/nitijtaneja" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://www.hackerrank.com/profile/tanejanitij4002" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href="https://leetcode.com/u/nitijtaneja/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white"></a>
+<a href="https://yt.openinapp.co/DataScienceInsights" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://instagram.com/data_scienceinsights" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.geeksforgeeks.org/user/tanejanibzzy/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-2980B9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+<a href="mailto:tanejanitij4002@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://fb.com/share/QcgrbyGBhqJdx6Ru/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitij taneja" height="30" width="40" /></a> 
+<a href="https://instagram.com/jhdhevglihe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhdhevglihe" height="30" width="40" /></a> 
+</p>
 
-⚡ Fun fact: I'm always exploring the boundaries between technology and creativity!
+---
 
-### Connect with me:
+## 📊 GitHub Activity & Stats
 
-<p align="left"> <a href="https://www.linkedin.com/in/nitij-taneja-702645204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitij taneja" height="30" width="40" /></a> <a href="https://kaggle.com/nitijtaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nitijtaneja" height="30" width="40" /></a> <a href="https://fb.com/share/QcgrbyGBhqJdx6Ru/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitij taneja" height="30" width="40" /></a> <a href="https://instagram.com/data_scienceinsights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="data_scienceinsights" height="30" width="40" /></a> <a href="https://instagram.com/jhdhevglihe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhdhevglihe" height="30" width="40" /></a> <a href="https://www.hackerrank.com/profile/tanejanitij4002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanejanitij4002" height="30" width="40" /></a> <a href="https://leetcode.com/u/nitijtaneja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitijtaneja" height="30" width="40" /></a> <a href="https://yt.openinapp.co/DataScienceInsights" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DataScienceInsights" height="30" width="40" /></a> <a href="https://www.geeksforgeeks.org/user/tanejanibzzy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanejanibzzy" height="30" width="40" /></a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nitij-taneja&theme=gotham&hide_border=true" alt="Nitij's Github Streaks" />
+</p>
 
-### Languages and Tools:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en&hide_border=true&theme=gotham" alt="Nitij's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Nitij's Top Languages" />
+</p>
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitij-taneja&bg_color=12111d&color=ffffff&line=007ACC&point=FFA116&area=true&hide_border=true&theme=gotham" alt="Nitij's Contribution Graph" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact" alt="nitij-taneja" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en" alt="nitij-taneja" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitij-taneja&" alt="nitij-taneja" /></p>
+---
 
-### Projects
-- [**Reactive-vs-Proactive-Agents**](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents)
-  
-![Project 1](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
+## 🛠️ Tech Stack & Core Skills
 
-- [**ReAct RAG Visualizer**](https://github.com/nitij-taneja/react_rag_visualiser)
-  
-![Project 2](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+<h3 align="center">🔥 Languages & Frameworks 🔥</h3>
+<p align="center"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"> </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"> </a>
+</p>
+<h3 align="center">💻 Data & AI Tools 💻</h3>
+<p align="center">
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logoColor=white"> </a>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> </a>
+    <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> </a>
+</p>
 
--  [**A2A LEGAL RESEARCH**](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)
-  
-![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
+---
 
-- [**Deep Research AI Agent**](https://github.com/nitij-taneja/deep-research-ai-agent)
-  
-![Project 4](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+## 🤖 Expertise in AI & ML
 
-- [**Research Papers Classification Project**](https://github.com/nitij-taneja/Research-Paper-classification-MVP)
-  
-![Project 5](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
+### GenAI & Agentic AI
+* **Frameworks**: **LangChain, LangGraph, GraphRAG, CrewAI, Autogen, LlamaIndex**.
+* **Techniques**: Generative AI, LLMs, **RAG** (Retrieval Augmented Generation), **ReAct**, **Prompt Engineering**.
+* **Integration**: Google AI SDK, Groq API integration (LLaMA 3).
 
+### ML/DL & Algorithms
+* **DL Frameworks**: PyTorch, TensorFlow, Scikit-learn.
+* **Models**: Neural Networks, Attention, **Transformers**, CNN, LSTM, Random Forest, Logistic Regression, XGBoost, CatBoost.
+* **Advanced**: CNN-LSTM hybrid model for time-series, SMOTE for class imbalance, cost-sensitive evaluation.
 
+### Data Science & Analytics
+* **EDA & Visualization**: Matplotlib, Seaborn, Plotly, Tableau, PowerBI.
+* **Time Series**: ACF/PACF, rolling stats, PCA, backtesting (trading strategy), risk modeling.
+* **NLP**: NLTK, spaCy, Sentiment Analysis, Document Classification, **Sentence Transformers**.
 
+### Backend, MLOps, & Deployment
+* **Backend**: **FastAPI** (Building REST APIs), Django, Flask.
+* **DevOps**: Docker, Git/GitHub, CI/CD, MLOps, **GitHub Actions** (automation/scheduled workflows).
+* **Databases**: MongoDB, MySQL, Firebase.
+* **MLOps Tools**: MLflow, LangSmith.
 
+---
 
+## 💡 Featured Projects & Demos (Preserved)
 
+* **[Reactive-vs-Proactive-Agents](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents)**
+   > *Code: AI Content Strategist Agents.*
+   ![Project 1](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
 
-### Tech Skills:
+* **[ReAct RAG Visualizer](https://github.com/nitij-taneja/react_rag_visualiser)**
+   > *Code: Visualizing the ReAct mechanism in RAG.*
+   ![Project 2](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
 
-- **Languages**: Python, SQL, C++ (basic), R, Java (basic)
-- **Frameworks**: FastAPI, Django, Flask, Streamlit, PyTorch, TensorFlow, Scikit-learn
-- **ML/NLP**: Deep Learning, Transformers, LLM Chatbots, Recommender Systems, Computer Vision, Time Series
-- **Tools**: Docker, Git, Postman, MongoDB, PowerBI, MLflow, HuggingFace, Firebase
-- **Other**: API Development, Deployment, Testing, MLOps, PDF/Text Processing, GitHub Actions
+* **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
+   > *Code: Agentic Legal Research Assistant.*
+   ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
-### Machine Learning & Deep Learning:
+* **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
+   > *Code: Deep Research Agent with PDF processing.*
+   ![Project 4](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
 
-- **Classification Models**: Random Forest, Logistic Regression, SVM, Gradient Boosting, XGBoost, CatBoost
-- **Deep Learning**: CNN-LSTM hybrid model for time-series and spatial data
-- **NLP Models**: Sentence Transformers (e.g., for embeddings), basic sentiment analysis tools
-- **ML Pipelines**: Feature engineering, model training, hyperparameter tuning, SMOTE for class imbalance
-- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score, ROC-AUC, cost-sensitive evaluation
+* **[Research Papers Classification Project](https://github.com/nitij-taneja/Research-Paper-classification-MVP)**
+   > *Code: NLP system for research paper categorization and journal recommendation.*
+   ![Project 5](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
 
-### Data Science & Analytics:
-
-- **EDA & Visualization**: Matplotlib, Seaborn, Plotly
-- **Time Series Analysis**: ACF/PACF, rolling stats, PCA, mean reversion, moving averages (e.g., Golden/Death Cross)
-- **Backtesting**: Trading strategy performance evaluation
-- **Risk Modeling**: Custom scoring systems, cost optimization, model-based decision support
-
-### Natural Language Processing:
-
-- **Text Preprocessing**: NLTK, spaCy, regular expressions, PDF text extraction (pdfplumber, PyPDF2, PyMuPDF, pytesseract)
-- **Document Classification**: NLP for research paper categorization
-- **Sentiment Analysis & Readability**: textstat, NLTK sentiment scoring
-- **Content Generation**: LinkedIn post generator using Groq (LLaMA 3)
-
-### AI Integration & Generative AI:
-
-- **Large Language Model APIs**: Groq API integration (LLaMA 3)
-- **Custom Chatbots**: Built with pattern matching + AI-based query handling (e.g., in Community Safety Model)
-- **Generative Content**: Template-based and AI-based content generation
-
-### Backend & APIs:
-
-- **FastAPI**: Building REST APIs for ML/AI systems
-- **API Integration**: Research APIs (arXiv, HuggingFace, PapersWithCode), Telegram bot API
-- **Data Delivery**: Telegram bots, Streamlit interfaces, GitHub Actions for scheduled workflows
-
-### Software Engineering & DevOps:
-
-- **Version Control**: Git, GitHub
-- **Deployment Tools**: GitHub Actions (automation), Streamlit apps for demo interfaces
-- **Environment Management**: requirements.txt, modularized Python project structures
-- **Automation**: Daily cron jobs using GitHub Actions
-
-### Geospatial Analysis:
-
-- **Map Visualization**: Folium-based interactive maps
-- **Spatial Risk Modeling**: Proximity-based scoring systems (used in safety model)
-
-### Data Handling & ETL:
-
-- **File I/O**: JSON, CSV, Excel, Markdown
-- **Data Cleaning**: Handling missing values, converting raw text to structured formats
-- **Structured Data Pipelines**: For large datasets (research papers, sensors, crypto data)
-
-### Frontend & UI/UX:
-
-- **Streamlit**: Interactive web apps for ML workflows and AI demos
-- **User Experience Flows**: Incident reporting, chatbots, risk assessments
-
-### Domain-Specific Knowledge:
-
-- **Finance/Crypto**: Price prediction, trading strategy modeling
-- **Academia/Publishing**: Research evaluation and journal recommendation
-- **Safety & Security**: Real-time risk modeling and incident tracking systems
-- **E-commerce**: AI-enhanced shopping experience with price negotiation and product recommendation
-
-### Soft/Architectural Skills:
-
-- End-to-end system design (data collection → ML modeling → delivery → UI)
-- Cross-functional understanding (AI, APIs, frontend/backend)
-- Strong documentation and structured project organization
+---
