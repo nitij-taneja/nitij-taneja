@@ -1,5 +1,5 @@
 <h1 align="center">
-  नमस्कार! Hello! Sat Sri Akal! I'm Nitij Taneja!
+  ਨਮਸਕਾਰ! Hello! ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! I'm Nitij Taneja!
 </h1>
 
 <p align="center">
@@ -8,12 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitij-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="nitij-taneja" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/nitij-taneja/nitij-taneja/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
 </p>
 
 ---
@@ -43,24 +37,24 @@
 ## 💡 Featured Projects & Demos (Agentic AI & LLMs)
 
 * **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
-   > *A cutting-edge multi-agent AI platform showcasing advanced agentic patterns for legal case research, synthesizing and delivering legal verdicts with transparency.*
-   ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
+   > *A multi-agent AI for legal case research, synthesizing and delivering legal verdicts with transparency.*
+   ![Project 3](https://raw.githubusercontent.com/nitij-taneja/A2A_LEGAL_RESEARCH/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
-   ![Project 4](https://github.com/nitij-taneja/deep-research-ai-agent/blob/main/VID_20251029185139_V1.gif)
+   ![Project 4](https://raw.githubusercontent.com/nitij-taneja/deep-research-ai-agent/main/VID_20251029185139_V1.gif)
 
 * **[ReAct RAG Visualizer](https://github.com/nitij-taneja/react_rag_visualiser)**
    > *Interactive AI observability tool visualizing the step-by-step ReAct reasoning loop.*
-   ![Project 2](https://github.com/nitij-taneja/react_rag_visualiser/blob/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+   ![Project 2](https://raw.githubusercontent.com/nitij-taneja/react_rag_visualiser/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
 
 * **[Reactive-vs-Proactive-Agents](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents)**
    > *Dual-agent system orchestrating Groq (Llama 3) for drafting and Gemini for strategic refinement.*
-   ![Project 1](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
+   ![Project 1](https://raw.githubusercontent.com/nitij-taneja/Reactive-vs-Proactive-Agents/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
 
 * **[Research Papers Classification Project](https://github.com/nitij-taneja/Research-Paper-classification-MVP)**
    > *NLP system using Sentence Transformers to classify papers and recommend academic venues.*
-   ![Project 5](https://github.com/nitij-taneja/Research-Paper-classification-MVP/blob/main/my_preview.gif?raw=true)
+   ![Project 5](https://raw.githubusercontent.com/nitij-taneja/Research-Paper-classification-MVP/main/my_preview.gif)
 
 ---
 
@@ -96,7 +90,7 @@
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logoColor=white"> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"> </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </a>
 </p>
@@ -142,7 +136,7 @@
 <a href="https://yt.openinapp.co/DataScienceInsights" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/data_scienceinsights" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.geeksforgeeks.org/user/tanejanibzzy/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-2980B9?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-<a href="https://stackabuse.com/author/nitij/" target="_blank"><img alt="Stack Abuse" src="https://img.shields.io/badge/-Stack%20Abuse-333333?style=for-the-badge&logoColor=white"></a>
+<a href="https://stackabuse.com/author/nitij/" target="_blank"><img alt="Stack Abuse" src="https://img.shields.io/badge/-Stack%20Abuse-333333?style=for-the-badge&logo=stackabuse&logoColor=white"></a>
 <a href="mailto:tanejanitij4002@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
