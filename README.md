@@ -43,7 +43,7 @@
 ## 💡 Featured Projects & Demos (Agentic AI & LLMs)
 
 * **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
-   > *A cutting-edge multi-agent AI platform showcasing advanced agentic patterns for legal case research, synthesizing and delivering legal verdicts with transparency.*
+   > *A multi-agent AI platform for legal case research, synthesizing and delivering legal verdicts with transparency.*
    ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
