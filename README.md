@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/nitij-taneja/nitij-taneja/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
-</p>
-
----
-
 <p align="right"> 
   <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </p>
@@ -43,7 +37,7 @@
 ## 💡 Featured Projects & Demos (Agentic AI & LLMs)
 
 * **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
-   > *A multi-agent AI platform for legal case research, synthesizing and delivering legal verdicts with transparency.*
+   > *A multi-agent AI for legal case research, synthesizing and delivering legal verdicts with transparency.*
    ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
