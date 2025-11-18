@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/nitij-taneja/nitij-taneja/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
+</p>
+
+---
+
 <p align="right"> 
   <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </p>
@@ -35,6 +41,10 @@
 ---
 
 ## 💡 Featured Projects & Demos (Agentic AI & LLMs)
+
+* **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
+   > *A cutting-edge multi-agent AI platform showcasing advanced agentic patterns for legal case research, synthesizing and delivering legal verdicts with transparency.*
+   ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
@@ -108,23 +118,11 @@
 
 ## 📊 GitHub Activity & Contribution
 
-<div align="center">
-  <img src="https://github.com/nitij-taneja/nitij-taneja/raw/main/profile-3d-contrib/profile-night-view.svg" alt="contribution-graph-3d" width="100%">
-</div>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitij-taneja&bg_color=12111d&color=ffffff&line=007ACC&point=FFA116&area=true&hide_border=true&theme=gotham" alt="Nitij's Contribution Graph" width="100%">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitij-taneja&show_icons=true&locale=en&hide_border=true&theme=gotham" alt="Nitij's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitij-taneja&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Nitij's Top Languages" />
-</p>
-
-<div align="center">
-  <img alt="Snake" src="https://raw.githubusercontent.com/nitij-taneja/nitij-taneja/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitij-taneja&theme=radical" height=auto width=80%"  />  
 </p>
 
 <p align="center">
