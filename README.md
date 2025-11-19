@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/nitij-taneja/nitij-taneja/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
+</p>
+
+---
+
 <p align="right"> 
   <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 </p>
