@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/nitij-taneja/nitij-taneja/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
+  <img src="https://github.com/nitij-taneja/forest_fire/blob/main/Gemini_Generated_Image_lhqji6lhqji6lhqj.png" width="80%" alt="Nitij Banner">
 </p>
 
 ---
