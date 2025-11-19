@@ -62,6 +62,13 @@
    > *NLP system using Sentence Transformers to classify papers and recommend academic venues.*
    ![Project 5](https://raw.githubusercontent.com/nitij-taneja/Research-Paper-classification-MVP/main/my_preview.gif)
 
+  <h3 align="center">Find More Projects in My Repositories!</h3>
+<p align="center">
+    *The projects listed above are just a glimpse of my work in Agentic AI and LLMs. Explore my GitHub repositories for more wonderful projects, including full-stack solutions and ML research.*
+</p>
+
+
+
 ---
 
 ## 💻 Tech Stack & Tools
@@ -146,7 +153,3 @@
 <a href="mailto:tanejanitij4002@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="center">Find More Projects in My Repositories!</h3>
-<p align="center">
-    *The projects listed above are just a glimpse of my work in Agentic AI and LLMs. Explore my GitHub repositories for more wonderful projects, including full-stack solutions and ML research.*
-</p>
