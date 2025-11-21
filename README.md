@@ -47,7 +47,7 @@
    ![Project 3](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH/blob/main/agentic-legal-research_q7LIi0wV%20(online-video-cutter.com).gif)
   
 * **[Graph Rag](https://github.com/nitij-taneja/graph_rag)**
-   > *A knowledge graph application that combines document processing with AI-powered querying using Google Gemini LLM..*
+   > *A knowledge graph application that combines document processing with AI-powered querying using Google Gemini*
    ![Project 6](https://github.com/nitij-taneja/graph_rag/blob/main/graph-rag-demo-personal-microsoft-edge-2025-11-22-01-03-55_Jt76sPeg-VEED.gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
