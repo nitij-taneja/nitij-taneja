@@ -48,7 +48,7 @@
   
 * **[Graph Rag](https://github.com/nitij-taneja/graph_rag)**
    > *A knowledge graph application that combines document processing with AI-powered querying using Google Gemini LLM..*
-   ![Project 6](https://raw.githubusercontent.com/nitij-taneja/deep-research-ai-agent/main/VID_20251029185139_V1.gif)
+   ![Project 6](https://github.com/nitij-taneja/graph_rag/blob/main/graph-rag-demo-personal-microsoft-edge-2025-11-22-01-03-55_Jt76sPeg-VEED.gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
