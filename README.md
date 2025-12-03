@@ -44,7 +44,7 @@
 
 * **[FinSight AI](https://github.com/nitij-taneja/FinSight-AI)**
    > *A multi-agent AI for Real-Time Financial Intelligence.*
-   ![Project 7](https://github.com/nitij-taneja/FinSight-AI/blob/main/README.md%20-%20llama_fastapi_app%20-%20Visual%20Studio%20Code%202025-12-03%2012-41-25%20(online-video-cutter.com).gif)
+   ![Project 7](https://github.com/nitij-taneja/FinSight-AI/blob/main/Recording%202025-12-03%20174904-VEED.gif)
   
 * **[A2A LEGAL RESEARCH](https://github.com/nitij-taneja/A2A_LEGAL_RESEARCH)**
    > *A multi-agent AI for legal case research, synthesizing and delivering legal verdicts with transparency.*
