@@ -54,6 +54,10 @@
    > *A knowledge graph application that combines document processing with AI-powered querying using Google Gemini*
    ![Project 6](https://github.com/nitij-taneja/graph_rag/blob/main/graph-rag-demo-personal-microsoft-edge-2025-11-22-01-03-55_Jt76sPeg-VEED.gif)
 
+* **[The AI Samachar](https://github.com/nitij-taneja/The-AI-Samachar)**
+   > *Autonomous multi-agent team creating personalized newsletters live..*
+   ![Project 8](https://raw.githubusercontent.com/nitij-taneja/react_rag_visualiser/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
    ![Project 4](https://raw.githubusercontent.com/nitij-taneja/deep-research-ai-agent/main/VID_20251029185139_V1.gif)
