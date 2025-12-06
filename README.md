@@ -56,7 +56,7 @@
 
 * **[The AI Samachar](https://github.com/nitij-taneja/The-AI-Samachar)**
    > *Autonomous multi-agent team creating personalized newsletters live..*
-   ![Project 8](https://raw.githubusercontent.com/nitij-taneja/react_rag_visualiser/main/%25VITE_APP_TITLE%25%20-%20Personal%20-%20Microsoft_%20Edge%202025-11-15%2020-52-22-VEED.gif)
+   ![Project 8](https://github.com/nitij-taneja/The-AI-Samachar/blob/main/AI%20Newsletter%20Agent%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft_%20Edge%202025-12-06%2015-43-28.gif)
 
 * **[Deep Research AI Agent](https://github.com/nitij-taneja/deep-research-ai-agent)**
    > *Autonomous research platform using LangGraph and Gemini for structured reports.*
