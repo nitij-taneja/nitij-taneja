@@ -51,7 +51,7 @@ Uploading bhai_coorect_lien_bola_yeh_bol.mp4…
         <li>🎯 <b>Aspirations:</b> Pursuing MS / PhD in CS / AI to build next-generation autonomous cognitive systems.</li>
       </ul>
       <td width="40%" align="center" valign="middle">
-      <video src="https://portfolionitij.vercel.app/nitij-ai-intro.mp4" width="340" style="border-radius: 12px;" controls></video>
+      <video src="https://drive.google.com/file/d/1VScOcjOdxiaWnkwfQgddcXfA18RwUPRu/view?usp=sharing" width="340" style="border-radius: 12px;" controls></video>
     </td>
 
 
