@@ -61,29 +61,7 @@
 
 👉 *Check out my [Google Scholar Profile](https://scholar.google.com/citations?user=502T7u4AAAAJ) for complete citations & upcoming preprints.*
 
----
 
-## 💼 Industry & Leadership Experience
-
-```
-├── 🏢 GoPluto.ai ── Software & AI Engineering Intern (Nov 2025 – Dec 2025)
-│   ├── Architected production GraphRAG with ArangoDB & PostgreSQL (AQL traversals).
-│   ├── Reduced retrieval latency by 40% & eliminated hallucinations via scope-locking.
-│   └── Designed intelligent task story generator improving planning accuracy by 60%.
-│
-├── 🏢 Blue Briar Consulting ── Junior Data Scientist (Aug 2025 – Oct 2025)
-│   ├── Constructed sub-200ms Voice RAG pipeline (OpenAI Whisper + SpeechT5).
-│   ├── Prototyped Google ADK multi-agent systems across 5 business domains with RLHF.
-│   └── Engineered RBAC multi-agent chat features with strict security isolation.
-│
-├── 🏢 ApexIQ AI Solutions ── Data Science Intern ➔ Promoted to Project Head (Oct 2024 – Jul 2025)
-│   ├── Engineered CitizenU FastAPI backend serving 10,000+ active users.
-│   ├── Built Tattvaiq (AI Call Analytics) with automated PII sanitization & intent detection.
-│   └── Automated 70% of enterprise scheduling via Mixtral LLM orchestration & Gmail API.
-│
-└── 🏢 CloudyML E-Learning ── Data Science Intern (Dec 2023 – Mar 2024)
-    ├── Mentored 100+ global learners across Python, ML, DL, and NLP.
-    └── Authored high-impact technical articles and guided project deployments.
 ```
 
 ---
