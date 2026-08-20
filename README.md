@@ -44,7 +44,6 @@
       </p>
       <ul>
         <li>🔬 <b>Research Interests:</b> Agentic AI, GraphRAG, Cognitive Architectures, AI × Neuroscience, Low-Latency Multimodal RAG (<200ms).</li>
-        <li>💼 <b>Experience Highlights:</b> GoPluto.ai (GraphRAG), Blue Briar Consulting (Voice RAG), ApexIQ AI (Promoted to Project Head), CloudyML (Mentored 100+ learners).</li>
         <li>🎯 <b>Aspirations:</b> Pursuing MS / PhD in CS / AI to build next-generation autonomous cognitive systems.</li>
       </ul>
     </td>
