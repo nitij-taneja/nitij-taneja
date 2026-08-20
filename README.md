@@ -62,7 +62,6 @@
 👉 *Check out my [Google Scholar Profile](https://scholar.google.com/citations?user=502T7u4AAAAJ) for complete citations & upcoming preprints.*
 
 
-```
 
 ---
 
