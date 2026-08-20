@@ -50,7 +50,7 @@ Uploading bhai_coorect_lien_bola_yeh_bol.mp4…
         <li>🔬 <b>Research Interests:</b> Agentic AI, GraphRAG, Cognitive Architectures, AI × Neuroscience, Low-Latency Multimodal RAG (<200ms).</li>
         <li>🎯 <b>Aspirations:</b> Pursuing MS / PhD in CS / AI to build next-generation autonomous cognitive systems.</li>
       </ul>
-           <td width="40%" align="center" valign="middle">
+      <td width="40%" align="center" valign="middle">
       <video src="https://portfolionitij.vercel.app/nitij-ai-intro.mp4" width="340" style="border-radius: 12px;" controls></video>
     </td>
 
