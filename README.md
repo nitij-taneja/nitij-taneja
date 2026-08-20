@@ -1,6 +1,6 @@
 
 
-<img width="340" height="191" alt="nitij-pitch" src="https://github.com/user-attachments/assets/1230fd43-e803-40f5-b2bd-60d38e58dfbf" />
+
 
 
 
