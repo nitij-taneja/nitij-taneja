@@ -1,19 +1,10 @@
-
-
-
-
-
-
-
-
-
 <h1 align="center">
-  नमस्कार! Hello! I'm Nitij Taneja 👋
+  नमस्कार! Hello! ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! I'm Nitij Taneja 👋
 </h1>
 
 <p align="center">
   <a href="https://portfolionitij.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AI+%C3%97+Neuroscience+Research+Enthusiast;Agentic+AI+%26+GraphRAG+Architect;LLM+Engineering+%E2%80%A2+Autonomous+Agents;Final-Year+Integrated+M.Tech+%40+VIT+Bhopal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AI+%C3%97+Neuroscience+Research+Enthusiast;Agentic+AI+%26+GraphRAG+Architect;LLM+Engineering+%E2%80%A2+Autonomous+Agents;Final-Year+Integrated+M.Tech+%40+VIT+Bhopal" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,38 +24,39 @@
 
 <p align="center">
   <a href="https://portfolionitij.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=140&lines=%24%20nitij-ai%20--status%3Dactive%20--mode%3Dresearch;%E2%9C%94%20Role%3A%20AI%20%C3%97%20Neuroscience%20Scholar%20%7C%20VIT%20Bhopal;%E2%9C%94%20Architect%3A%20Agentic%20AI%20%7C%20GraphRAG%20%7C%20Multi-Agent%20Systems;%E2%9C%94%20Publications%3A%20IEEE%20INSTCon%202026%20%26%20JDMH%20(2026)" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=130&lines=%24%20nitij-ai%20--status%3Dactive%20--mode%3Dresearch;%E2%9C%94%20Role%3A%20AI%20%C3%97%20Neuroscience%20Scholar%20%7C%20VIT%20Bhopal;%E2%9C%94%20Architect%3A%20Agentic%20AI%20%7C%20GraphRAG%20%7C%20Multi-Agent%20Systems;%E2%9C%94%20Publications%3A%20IEEE%20INSTCon%202026%20%26%20JDMH%20(2026)" alt="Terminal Typing" />
   </a>
 </p>
 
-
-
 ---
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2>🧠 About Me & Research Vision</h2>
+    <td width="58%" valign="top">
+      <h3>🧠 About Me & Research Vision</h3>
       <p>
-        I am a <b>Final-Year Integrated M.Tech Scholar in Computer Science (Data Science & Computational Thinking)</b> at <b>VIT Bhopal University</b> (CGPA: 8.44/10.0). My work bridges cutting-edge <b>AI research</b> with <b>production-grade systems engineering</b>.
+        Final-Year Integrated M.Tech Scholar in Computer Science (Data Science & Computational Thinking) at <b>VIT Bhopal University</b> (CGPA: 8.44/10.0). Bridging cutting-edge <b>AI research</b> with <b>production systems engineering</b>.
       </p>
       <p>
-        My core research and engineering focus lies at the intersection of <b>Agentic AI, Multi-Agent Reasoning (ReAct, A2A protocols), GraphRAG architectures</b>, and biologically inspired <b>Cognitive Systems (AI × Neuroscience)</b>. I have built scalable microservices serving 10,000+ active users and authored peer-reviewed research papers in spatio-temporal deep learning and multi-agent knowledge graphs.
+        Specializing in <b>Agentic AI, Multi-Agent Reasoning (ReAct, A2A protocols), GraphRAG architectures</b>, and biologically inspired <b>Cognitive Systems (AI × Neuroscience)</b>.
       </p>
       <ul>
-        <li>🔬 <b>Research Interests:</b> Agentic AI, GraphRAG, Cognitive Architectures, AI × Neuroscience, Low-Latency Multimodal RAG (<200ms).</li>
-        <li>🎯 <b>Aspirations:</b> Pursuing MS / PhD in CS / AI to build next-generation autonomous cognitive systems.</li>
+        <li>🔬 <b>Research:</b> Agentic AI, GraphRAG, Cognitive Architectures (<200ms Voice RAG).</li>
+        <li>⚙️ <b>Impact:</b> Scaled systems to 10,000+ users; presented at <b>IEEE INSTCon 2026</b>.</li>
+        <li>🎯 <b>Aspiration:</b> Pursuing MS / PhD in CS / AI for intelligent cognitive systems.</li>
       </ul>
-         <td width="40%" align="center" valign="middle">
-      <video src="https://github.com/user-attachments/assets/69b8803d-c454-41c4-b41d-f882d1ae157f" width="340" style="border-radius: 12px;" controls></video>
     </td>
-
-
-
+    <td width="42%" align="center" valign="middle">
+      <p align="center">
+        <b>🎬 10-Sec Video Pitch</b>
+      </p>
+      <video src="https://github.com/user-attachments/assets/69b8803d-c454-41c4-b41d-f882d1ae157f" width="100%" style="border-radius: 10px;" controls></video>
+    </td>
   </tr>
 </table>
 
 ---
+
 
 ## 📄 Publications & Research Papers
 
