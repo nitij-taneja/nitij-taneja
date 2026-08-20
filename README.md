@@ -1,6 +1,11 @@
 
 
-Uploading bhai_coorect_lien_bola_yeh_bol.mp4…
+<img width="340" height="191" alt="nitij-pitch" src="https://github.com/user-attachments/assets/1230fd43-e803-40f5-b2bd-60d38e58dfbf" />
+
+
+
+
+
 
 <h1 align="center">
   नमस्कार! Hello! I'm Nitij Taneja 👋
@@ -50,9 +55,10 @@ Uploading bhai_coorect_lien_bola_yeh_bol.mp4…
         <li>🔬 <b>Research Interests:</b> Agentic AI, GraphRAG, Cognitive Architectures, AI × Neuroscience, Low-Latency Multimodal RAG (<200ms).</li>
         <li>🎯 <b>Aspirations:</b> Pursuing MS / PhD in CS / AI to build next-generation autonomous cognitive systems.</li>
       </ul>
-      <td width="40%" align="center" valign="middle">
-      <img src="https://drive.google.com/file/d/1uWC2jYjQTzjSv0TxUydp2fZy05UtNjTg/view?usp=sharing" width="340" alt="Nitij 10-Sec Pitch" style="border-radius: 12px;" />
+         <td width="40%" align="center" valign="middle">
+      <video src="https://github.com/user-attachments/assets/69b8803d-c454-41c4-b41d-f882d1ae157f" width="340" style="border-radius: 12px;" controls></video>
     </td>
+
 
 
   </tr>
