@@ -23,39 +23,23 @@
 ---
 
 <p align="center">
-  <a href="https://portfolionitij.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=130&lines=%24%20nitij-ai%20--status%3Dactive%20--mode%3Dresearch;%E2%9C%94%20Role%3A%20AI%20%C3%97%20Neuroscience%20Scholar%20%7C%20VIT%20Bhopal;%E2%9C%94%20Architect%3A%20Agentic%20AI%20%7C%20GraphRAG%20%7C%20Multi-Agent%20Systems;%E2%9C%94%20Publications%3A%20IEEE%20INSTCon%202026%20%26%20JDMH%20(2026)" alt="Terminal Typing" />
-  </a>
+  <video src="https://github.com/user-attachments/assets/69b8803d-c454-41c4-b41d-f882d1ae157f" width="85%" style="border-radius: 14px;" controls></video>
 </p>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="58%" valign="top">
-      <h3>🧠 About Me & Research Vision</h3>
-      <p>
-        Final-Year Integrated M.Tech Scholar in Computer Science (Data Science & Computational Thinking) at <b>VIT Bhopal University</b> (CGPA: 8.44/10.0). Bridging cutting-edge <b>AI research</b> with <b>production systems engineering</b>.
-      </p>
-      <p>
-        Specializing in <b>Agentic AI, Multi-Agent Reasoning (ReAct, A2A protocols), GraphRAG architectures</b>, and biologically inspired <b>Cognitive Systems (AI × Neuroscience)</b>.
-      </p>
-      <ul>
-        <li>🔬 <b>Research:</b> Agentic AI, GraphRAG, Cognitive Architectures (<200ms Voice RAG).</li>
-        <li>⚙️ <b>Impact:</b> Scaled systems to 10,000+ users; presented at <b>IEEE INSTCon 2026</b>.</li>
-        <li>🎯 <b>Aspiration:</b> Pursuing MS / PhD in CS / AI for intelligent cognitive systems.</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <p align="center">
-        <b>🎬 10-Sec Video Pitch</b>
-      </p>
-      <video src="https://github.com/user-attachments/assets/69b8803d-c454-41c4-b41d-f882d1ae157f" width="100%" style="border-radius: 10px;" controls></video>
-    </td>
-  </tr>
-</table>
+## 🧠 About Me & Research Vision
+
+I am a **Final-Year Integrated M.Tech Scholar in Computer Science (Data Science & Computational Thinking)** at **VIT Bhopal University**. My work bridges cutting-edge **AI research** with **production systems engineering**.
+
+My core research and engineering focus lies at the intersection of **Agentic AI, Multi-Agent Reasoning (ReAct, A2A protocols), GraphRAG architectures**, and biologically inspired **Cognitive Systems (AI × Neuroscience)**. I have engineered scalable AI architectures and authored peer-reviewed research papers in spatio-temporal deep learning and multi-agent knowledge graphs.
+
+* 🔬 **Research Focus:** Agentic AI, GraphRAG, Cognitive Architectures, AI × Neuroscience, Low-Latency Multimodal RAG (<200ms).
+* ⚙️ **Systems & Papers:** Multi-agent legal reasoning presented at **IEEE INSTCon 2026** and spatio-temporal forecasting published in **JDMH (2026)**.
+* 🎯 **Aspirations:** Pursuing MS / PhD in Computer Science / AI to build next-generation autonomous cognitive systems.
 
 ---
+
 
 
 ## 📄 Publications & Research Papers
