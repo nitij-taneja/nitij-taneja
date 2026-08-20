@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://portfolionitij.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=140&lines=%24%20nitij-ai%20--status%3Dactive%20--mode%3Dresearch;%E2%9C%94%20Role%3A%20AI%20%C3%97%20Neuroscience%20Scholar%20%7C%20VIT%20Bhopal;%E2%9C%94%20Architect%3A%20Agentic%20AI%20%7C%20GraphRAG%20%7C%20Multi-Agent%20Systems;%E2%9C%94%20Publications%3A%20IEEE%20INSTCon%202026%20%26%20JDMH%20(2026);%E2%9C%94%20" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=140&lines=%24%20nitij-ai%20--status%3Dactive%20--mode%3Dresearch;%E2%9C%94%20Role%3A%20AI%20%C3%97%20Neuroscience%20Scholar%20%7C%20VIT%20Bhopal;%E2%9C%94%20Architect%3A%20Agentic%20AI%20%7C%20GraphRAG%20%7C%20Multi-Agent%20Systems;%E2%9C%94%20Publications%3A%20IEEE%20INSTCon%202026%20%26%20JDMH%20(2026)" alt="Terminal Typing" />
   </a>
 </p>
 
