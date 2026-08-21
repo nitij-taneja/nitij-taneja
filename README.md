@@ -1,8 +1,8 @@
 
 
-
 <h1 align="center">
-  नमस्कार! → Hello! → ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! → नमस्कार!<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=007ACC&center=true&vCenter=true&width=500&lines=नमस्कार!;Hello!;ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ!;नमस्कार!" alt="Greeting" />
+  <br>
   I'm Nitij Taneja 👋
 </h1>
 
