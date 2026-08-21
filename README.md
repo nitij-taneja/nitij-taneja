@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=007ACC&center=true&vCenter=true&width=500&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0!;Hello!;%E0%A8%B8%E0%A8%A4%E0%A8%BF+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0!" alt="Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=34&pause=700&color=007ACC&center=true&vCenter=true&width=550&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0!;Hello!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0!;Hello!" alt="Greeting" />
   <br>
   I'm Nitij Taneja 👋
 </h1>
