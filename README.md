@@ -2,7 +2,8 @@
 
 
 <h1 align="center">
-  नमस्कार! Hello! ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! I'm Nitij Taneja 👋
+  नमस्कार! → Hello! → ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ! → नमस्कार!<br>
+  I'm Nitij Taneja 👋
 </h1>
 
 <p align="center">
